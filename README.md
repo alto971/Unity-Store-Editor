@@ -1,2 +1,2 @@
 # Unity-Store-Editor
-small store edition system
+Small store edition system
