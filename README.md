@@ -1,4 +1,4 @@
-# Unity-Store-Editor
+# Unity Store Editor
 Small store edition system with custom editor in Unity.  
 
 You want to know how to manage end how to customize the editor ?  
