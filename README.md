@@ -6,4 +6,7 @@ Consider to support us on [Patreon](https://www.patreon.com/eventorizon) or if y
  
  ## How to use it ?
  -See the demo scene in the package  
- -Open the window editor on Window => Store => Store Item Editor
+ -Open the window editor on Window => Store => Store Item Editor  
+   
+   
+![Editor Image](https://makeyourgame.fun/Unity/cf/editorCapture.png)
